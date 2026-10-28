@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-"Este es mi primer commit"
+Este es mi primer commit
